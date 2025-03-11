@@ -1,0 +1,63 @@
+
+.montserrat-<uniquifier> {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+@font-face {
+    font-family: myFirstFont;
+    src: url();
+  }
+html {
+    height: 100%;
+    width: 100%;
+}
+body {
+    background-image: url(roller-coaster-sunset-generate-ai-photo.jpg);
+    font-family: Montserrat;
+}
+h1{
+    color:aliceblue;
+}
+h2{
+    color:aliceblue;
+}
+h3{
+    color:aliceblue;
+}
+.sus {
+    border-style:dashed;
+    border-color: aliceblue;
+}
+.red {
+width: 100px;
+height: 100px;
+background-color: red;
+margin:5px;
+padding: 10px;
+border-width: medium;
+border-style:double;
+
+display: inline-block;
+}
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin:5px;
+padding: 10px;
+border-width: medium;
+border-style:double;
+    display: inline-block;
+}
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin:5px;
+padding: 10px;
+border-width: medium;
+border-style:double;
+    display: inline-block;
+}
